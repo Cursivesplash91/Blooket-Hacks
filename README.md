@@ -3,12 +3,14 @@ Updated Frequently
 
 Just another set of hacks, that hopefully work.
 I try to update them frequently as possible, Let me know if they get patched.
-
+(This is a Minesraft2 repost, I still dont know where his accousnt went, but for now thes all should work.)
 
 
 HOW TO USE
 
 -Download 'Blooket-Hacks-Main'
+
+-Extract the file
 
 -Find the hack you want
 
