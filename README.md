@@ -8,7 +8,13 @@ I try to update them frequently as possible, Let me know if they get patched.
 
 HOW TO USE
 
--Copy the script from any of the files marked .js
+-Download 'Blooket-Hacks-Main'
+
+-Find the hack you want
+
+-Change the .js file to a .txt file
+
+-Copy the script from the .txt file
 
 -create a new bookmark and click 'more'
 
