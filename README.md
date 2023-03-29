@@ -3,7 +3,7 @@ Updated Frequently
 
 Just another set of hacks, that hopefully work.
 I try to update them frequently as possible, Let me know if they get patched.
-(This is a Minesraft2 repost, I still dont know where his accousnt went, but for now thes all should work.)
+(This is a Minesraft2 repost, Where He Went? I have no clue, but for now these all should work.)
 
 
 HOW TO USE
